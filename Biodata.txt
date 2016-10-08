@@ -1,2 +1,4 @@
 Nama 	: Hidayaturrahman
 NPM	: 140810140050
+TTL	: Bukittinggi, 26 April 1996
+JK	: Laki-laki
