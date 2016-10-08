@@ -5,3 +5,6 @@ JK	: Laki-laki
 
 Nama	: Ujang
 NPM	: 140810140090
+
+Nama	: Muhammad Jordiansyah
+NPM	: 140810160040
